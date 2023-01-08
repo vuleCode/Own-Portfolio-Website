@@ -550,6 +550,7 @@ header{
     font-size: 1.6rem;
     font-weight: 600;
     margin-bottom: 10px;
+    color: #395144;
 }
 
 .portfolio-overlay .bx{
@@ -714,6 +715,7 @@ header{
     }
     .portfolio-box{
         height: 245px;
+        width: auto;
     }
     .menu-icon{
         display: flex;
